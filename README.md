@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Imani7unshakeable
 - 👀 I’m interested in Cybersecurity & Computer Programming
-- 🌱 I’ve currently learned Swift, Python, and now Java
-- 💞️ I’m looking to collaborate on building my own app
+- 🌱 I’ve currently learned Swift, Python, Java, and Python
+- 💞️ I’m finding time to collaborate on building my own app
 - 📫 How to reach me cassiemalin@icloud.com
 
 <!---
